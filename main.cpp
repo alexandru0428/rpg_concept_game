@@ -31,11 +31,6 @@ int main() {
         std::cout << '\n' << "You certainly look like a "<< chosenClass << " , I only wish you well in your adventures!" << '\n';
         system("PAUSE");
 
-
-
-
-
-
     }
     else if(agreement == 'N' || agreement == 'n') {
     // :(
